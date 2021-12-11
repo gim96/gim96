@@ -1,3 +1,13 @@
+
+ <br />
+    <h2 >Hi , i'm Gim Kelum</h2>
+    <p >
+        I am Student , Freelancer ,Web Developer , Science & techlnology enthusiast and Founder in 
+        <a href='https://www.inivac.com'>Inivac</a>
+    </p>
+    <br />
+    <hr />
+
 <table background="1.gif" width="90%" align="center">
         <tr>
             <td colspan="90" align="center" style="color:aliceblue;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><h2>My Tech Stack</h2></td>
