@@ -80,7 +80,7 @@
     
     
    
-    <br>
+<!--     <br>
     <br>
     <h2>Contact with me</h2> 
     
@@ -95,3 +95,4 @@
     <a href="/" >
     <img src="https://img.icons8.com/ios-glyphs/48/000000/facebook-new.png"/>
     </a>
+ -->
