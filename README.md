@@ -1,3 +1,4 @@
+<body bgcolor="#000000">
 ### Hi , i'm Gim Kelum
 <hr />
 
@@ -7,3 +8,4 @@
 		<td></td>
 	</tr>
 </table>
+</body>
