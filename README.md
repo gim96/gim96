@@ -1,4 +1,11 @@
-### hey
+<br />
+    <h2 style="color:aliceblue;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;text-align:center">Hi , i'm Gim Kelum</h2>
+    <p style="color:aliceblue;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;text-align:center">
+        I am Student , Freelancer ,Web Developer , Science & techlnology enthusiast and Founder in 
+        <a href='https://www.inivac.com' style="color:brown">Inivac</a>
+    </p>
+    <br />
+    <hr />
 
  <table width="90%" align="center">
         <tr>
@@ -9,7 +16,7 @@
                 <img src="https://img.icons8.com/material-sharp/48/000000/html-5.png" />
             </td>
             <td width="9%">
-                <img src="https://img.icons8.com/material/48/ffffff/css3.png" />
+                <img src="https://img.icons8.com/material/48/000000/css3.png" />
             </td>
             <td width="9%">
                 <img src="https://img.icons8.com/ios-filled/48/000000/javascript.png" />
@@ -27,7 +34,7 @@
                 <img src="https://img.icons8.com/windows/48/000000/npm.png" />
             </td>
             <td width="9%">
-                <img src="https://img.icons8.com/ios-filled/48/ffffff/git.png" />
+                <img src="https://img.icons8.com/ios-filled/48/000000/git.png" />
             </td>
             <td width="9%">
                 <img src="https://img.icons8.com/material-rounded/48/000000/github.png" />
