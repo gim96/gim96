@@ -77,3 +77,22 @@
             </td>
         </tr>
     </table>
+    
+    
+     <br />
+    <hr />
+    <br />
+    <br />
+    <h2 style="text-align: center;color:aliceblue;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Contact with me</h2> 
+    <center>
+        <a href="https://github.com/gim96" > 
+         <img src="https://img.icons8.com/material-rounded/48/ffffff/github.png" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/gim-kelum-30b891155/" >
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/linkedin.png"/>
+    </a>
+    &nbsp;
+    <a href="/" >
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/facebook-new.png"/>
+    </a></center>
