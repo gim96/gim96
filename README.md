@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<br>
+<h2>GIM KELUM</h2>
 <!--
 **gim96/gim96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
