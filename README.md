@@ -80,10 +80,10 @@
     
     
    
-    <br />
-    <br />
-    <h2 >Contact with me</h2> 
-    <center>
+    <br>
+    <br>
+    <h2>Contact with me</h2> 
+    
         <a href="https://github.com/gim96" > 
          <img src="https://img.icons8.com/material-rounded/48/ffffff/github.png" />
     </a>
@@ -94,4 +94,4 @@
     
     <a href="/" >
     <img src="https://img.icons8.com/ios-glyphs/48/000000/facebook-new.png"/>
-    </a></center>
+    </a>
