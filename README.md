@@ -1,6 +1,12 @@
-### Hi there 👋
-I am Science and Technology Entusiast
+### Hi there 👋 , I'm Gim Kelum
+I am Student , Web developer ,Freelancer , Founder at <a href='https://www.inivac.com'>inivac</a>
+I am interesting in Science & Technology.
+
  <h2>GIM KELUM</h2>
+ 
+ 
+ 
+ 
 <!--
 **gim96/gim96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
