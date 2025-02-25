@@ -2,7 +2,7 @@
  <br />
     <h2 >Hi , i'm Gim Kelum</h2>
     <p >
-        I am Student , Freelancer ,Web Developer , Science & techlnology enthusiast and Founder in 
+        I am Freelancer ,Web Developer , Science & techlnology enthusiast and Founder in 
         <a href='https://www.inivac.com'>Inivac</a>
     </p>
     <br />
